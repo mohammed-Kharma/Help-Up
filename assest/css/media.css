@@ -1,0 +1,137 @@
+@media(max-width:576px){
+    .contentBg{
+        width: 80%;
+    }
+    .contentBg h4{
+        font-size: 22px;
+    }
+    section{
+        padding: 15px !important;
+    }
+    .customeCardMarign{
+        margin-top: 0px !important;
+    }
+    .customeMarginTop{
+        margin-top: 0px !important;
+    }
+    .bg-signUp{
+        width: 90%;
+    }
+    #phone{
+        display: block !important;
+        width: 380px !important;
+    }
+    .customeAuthFooter{
+        margin-top: 150px !important;
+    }
+    .form-add-courses{
+        width: 100% !important;
+        
+      }
+      .flex-time-box-select{
+        display: block !important;
+      }
+      .click-start{
+        width: 100% !important;
+      }
+      .flex-select-times{
+        display: block !important;
+      }
+      .place-start{
+        width: 100% !important;
+        margin: 0px !important;
+      }
+      .cardign-all-profile{
+        width: 90%;
+    }
+}
+@media(min-width:577px) and (max-width:767.98px){
+    .contentBg{
+        width: 80% !important;
+    }
+    .contentBg h4{
+        font-size: 22px;
+    }
+    section{
+        padding: 15px !important;
+    }
+    .customeCardMarign{
+        margin-top: 0px !important;
+    }
+    .customeMarginTop{
+        margin-top: 0px !important;
+    }
+    .bg-signUp{
+        width: 90%;
+    }
+    #phone{
+        display: block !important;
+        width: 530px !important;
+    }
+    .customeAuthFooter{
+        margin-top: 150px !important;
+    }
+    .form-add-courses{
+        width: 100% !important;
+        
+      }
+      .flex-time-box-select{
+        display: block !important;
+      }
+      .click-start{
+        width: 100% !important;
+      }
+      .flex-select-times{
+        display: block !important;
+      }
+      .place-start{
+        width: 100% !important;
+        margin: 0px !important;
+      }
+      .cardign-all-profile{
+        width: 90%;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .contentBg{
+        width: 60% !important;
+    }
+    .bg-signUp{
+        width: 90%;
+    }
+    .form-add-courses{
+        width: 100% !important;
+        
+      }
+      .flex-time-box-select{
+        display: block !important;
+      }
+      .click-start{
+        width: 100% !important;
+      }
+      .flex-select-times{
+        display: block !important;
+      }
+      .place-start{
+        width: 100% !important;
+        margin: 0px !important;
+      }
+      .cardign-all-profile{
+        width: 70%;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .bg-signUp{
+        width: 60%;
+    }
+    .form-add-courses{
+        width: 80% !important;
+        
+      }
+      .cardign-all-profile{
+        width: 50%;
+    }
+}
+@media(max-width:1200px){
+    
+}
